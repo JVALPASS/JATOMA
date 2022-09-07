@@ -1,5 +1,5 @@
 =========
-JATOMA
+#JATOMA
 =========
 
 Tool for automatic miniaturization of Java Desktop applications into Android mobile applications.
