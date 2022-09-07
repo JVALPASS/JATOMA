@@ -1,6 +1,4 @@
-=========
-#JATOMA
-=========
+# JATOMA
 
 Tool for automatic miniaturization of Java Desktop applications into Android mobile applications.
 Last version date: 01/12/18
