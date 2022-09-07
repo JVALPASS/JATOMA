@@ -2,8 +2,11 @@
 
 Tool for automatic miniaturization of Java Desktop applications into Android mobile applications.
 Last version date: 01/12/18
-Directory Testing_Tools: contains some tools over which we can execute JATOMA tools for conversion From Java App into Android app
-Directory JATOMA: contains the JATOMA tool that make the automatic conversion From Java App into Android app
+
+
+**Directory Testing_Tools:** contains some tools over which we can execute JATOMA tools for conversion From Java App into Android app
+
+**Directory JATOMA:** contains the JATOMA tool that make the automatic conversion From Java App into Android app
 
 REQUIREMENTS:
 
