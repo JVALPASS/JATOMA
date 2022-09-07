@@ -1,0 +1,23 @@
+=========
+DOMPARSER
+=========
+
+Tool di miniaturizzazione automatica di applicazioni Java Desktop in applicazioni mobile Android.
+Data ultima versione: 01/12/18
+
+REQUISITI:
+
+Apache Cordova (https://cordova.apache.org/)
+Android Virtual Device (per l'avvio su emulatore)
+
+UTILIZZO:
+
+Classe principale 'test.BuilderMain'
+Il programma necessita di 3 argomenti per l'avvio: 
+1. Path assoluto del progetto Java
+2. Nome del progetto Java
+3. Path assoluto dell'output
+
+Parametri di avvio:
+-path: specifica che sono stati passati i percorsi (punti 1, 2, 3)
+-emulate: per lanciare l'app su emulatore al termine del processo
